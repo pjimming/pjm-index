@@ -1,5 +1,5 @@
 * {
-    cursor: url("/static/image/cursor/yidong.png"), auto;
+    cursor: url("/static/image/yidong.png"), auto;
     margin: 0;
     padding: 0;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 a {
-    cursor: url("/static/image/cursor/hand.png"), auto;
+    cursor: url("/static/image/hand.png"), auto;
 }
 
 #box {
