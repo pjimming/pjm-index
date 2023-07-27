@@ -8,7 +8,7 @@ function getCopyrightYear() {
     if (startYear === endYear) {
         return startYear;
     }
-    return startYear + " - " + endYear;
+    return startYear + "-" + endYear;
 }
 
 window.onload = function () {
